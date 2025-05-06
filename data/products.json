@@ -1,0 +1,28 @@
+[
+  {
+    "id": 2,
+    "title": "Remera",
+    "description": "Musculosa",
+    "code": "OE08",
+    "price": 42,
+    "status": true,
+    "stock": 25,
+    "category": "Deportes",
+    "thumbnails": [
+      "thumbnail2.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Zapatilla",
+    "description": "Deportiva",
+    "code": "Z001",
+    "price": 58,
+    "status": true,
+    "stock": 105,
+    "category": "Deportes",
+    "thumbnails": [
+      "thumbnail2.jpg"
+    ]
+  }
+]
