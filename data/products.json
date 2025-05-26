@@ -13,16 +13,13 @@
     ]
   },
   {
-    "id": 3,
-    "title": "Zapatilla",
-    "description": "Deportiva",
-    "code": "Z001",
-    "price": 58,
-    "status": true,
-    "stock": 105,
-    "category": "Deportes",
-    "thumbnails": [
-      "thumbnail2.jpg"
-    ]
+    "id": 4,
+    "title": "Remera",
+    "price": 12
+  },
+  {
+    "id": 5,
+    "title": "Gorra",
+    "price": 9
   }
 ]
